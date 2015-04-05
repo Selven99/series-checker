@@ -1,0 +1,1 @@
+This software check all series updates on Planet Series website.
